@@ -1,0 +1,10 @@
+Bug_Id- 1
+  Status: new
+  Severity: trivial
+  Priority: low
+  Title: The SAVE DATA button is smaller than the others
+  Environment: Redmi Note 10 Pro, Android 12
+  Steps: 1.To Do List app installed and open New List page
+         2.Enter any text
+  ER: The SAVE DATA button is smaller than the others
+  AR: The opplication buttons have one view
